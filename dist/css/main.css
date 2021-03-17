@@ -182,13 +182,6 @@ h2, h3, h4 {
 img {
   width: 100%; }
 
-#logo {
-  width: 100px;
-  height: 60px;
-  padding: 0.3rem;
-  margin-left: -3rem;
-  padding-left: 2rem; }
-
 #main-nav {
   display: flex;
   justify-content: space-between;
@@ -493,8 +486,6 @@ img {
       transform: translateY(20px); }
       #main-nav ul li {
         padding: 1rem; }
-  #logo {
-    transform: translateX(-100px); }
   #header-home {
     height: 100vh; }
     #header-home .header-content h1 {
